@@ -13,8 +13,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="coral.svg" width="36" height="36" alt="">
-      <h3>Coral</h3>
+      <h3><img src="coral.svg" width="26" height="26" alt="">&nbsp;Coral</h3>
       <b>Kubernetes optimization</b><br>
       <sub>Supported on AKS and EKS · Compatible with your native Karpenter, NAP and Autoscaler</sub>
       <ul>
@@ -26,8 +25,7 @@
       <a href="https://zoorik.com/coral">Product page</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://zoorik.com/coral/guide">Product guide</a>
     </td>
     <td width="50%" valign="top">
-      <img src="amoeba.svg" width="36" height="36" alt="">
-      <h3>Amoeba</h3>
+      <h3><img src="amoeba.svg" width="26" height="26" alt="">&nbsp;Amoeba</h3>
       <b>Block storage optimization</b><br>
       <sub>Supported on Windows and Linux</sub>
       <ul>
@@ -42,10 +40,12 @@
 
 <table>
   <tr>
-    <td width="25%" valign="top"><b>Cut cost</b><br><sub>Pay for what your workloads use, not what was provisioned for the peak.</sub></td>
-    <td width="25%" valign="top"><b>Safe by design</b><br><sub>Nodes drain one at a time. A disk leaves the pool only when it is empty.</sub></td>
-    <td width="25%" valign="top"><b>Reliable</b><br><sub>No code changes. Resizes happen while you keep serving.</sub></td>
-    <td width="25%" valign="top"><b>Full visibility</b><br><sub>You decide what each product manages, and see every change it makes.</sub></td>
+    <td width="50%" valign="top"><b>Cut cost</b><br><sub>Pay for what your workloads use, not what was provisioned for the peak.</sub></td>
+    <td width="50%" valign="top"><b>Safe by design</b><br><sub>Nodes drain one at a time. A disk leaves the pool only when it is empty.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><b>Reliable</b><br><sub>No code changes. Resizes happen while you keep serving.</sub></td>
+    <td width="50%" valign="top"><b>Full visibility</b><br><sub>You decide what each product manages, and see every change it makes.</sub></td>
   </tr>
 </table>
 
