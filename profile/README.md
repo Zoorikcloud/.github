@@ -58,7 +58,7 @@ curl -fsSL https://zoorik.com/assess/k8s | python3 -     # Kubernetes (AKS and E
 curl -fsSL https://zoorik.com/assess/disks | python3 -   # Azure disks (Linux VMs)
 ```
 
-<sub>Read the code first in <a href="https://github.com/Zoorikcloud/assessment">Zoorikcloud/assessment</a>, or follow the steps at <a href="https://zoorik.com/assessment">zoorik.com/assessment</a>.</sub>
+<sub>Read the code first in <a href="https://github.com/getzoorik/assessment">getzoorik/assessment</a>, or follow the steps at <a href="https://zoorik.com/assessment">zoorik.com/assessment</a>.</sub>
 
 <details>
 <summary><b>Connect a cluster to Coral with <code>zoorikctl</code></b></summary>
@@ -66,7 +66,7 @@ curl -fsSL https://zoorik.com/assess/disks | python3 -   # Azure disks (Linux VM
 
 | Platform | Install |
 |---|---|
-| macOS | `brew tap zoorikcloud/tap && brew trust zoorikcloud/tap && brew install zoorikctl` |
+| macOS | `brew tap getzoorik/tap && brew trust getzoorik/tap && brew install zoorikctl` |
 | Windows | `irm https://get.zoorik.com/windows.ps1 \| iex` |
 | Linux | `curl -fsSL https://get.zoorik.com/linux \| sh` |
 
@@ -80,10 +80,10 @@ Then run the `zoorikctl cluster connect` command from the Coral console's "Conne
 
 | Repository | What it is |
 |---|---|
-| [assessment](https://github.com/Zoorikcloud/assessment) | The free assessment scripts |
-| [zoorikctl](https://github.com/Zoorikcloud/zoorikctl) | The command that connects a Kubernetes cluster to Coral: releases and installers |
-| [homebrew-tap](https://github.com/Zoorikcloud/homebrew-tap) | Homebrew tap for zoorikctl |
-| [scoop-bucket](https://github.com/Zoorikcloud/scoop-bucket) | Scoop bucket for zoorikctl |
+| [assessment](https://github.com/getzoorik/assessment) | The free assessment scripts |
+| [zoorikctl](https://github.com/getzoorik/zoorikctl) | The command that connects a Kubernetes cluster to Coral: releases and installers |
+| [homebrew-tap](https://github.com/getzoorik/homebrew-tap) | Homebrew tap for zoorikctl |
+| [scoop-bucket](https://github.com/getzoorik/scoop-bucket) | Scoop bucket for zoorikctl |
 
 </details>
 
