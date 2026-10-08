@@ -90,7 +90,7 @@ Then run the `zoorikctl cluster connect` command from the Coral console's "Conne
 <br>
 
 <p align="center">
-  <a href="https://zoorik.com">zoorik.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:founders@zoorik.com">founders@zoorik.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/company/zoorik">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.youtube.com/@zoorikcloud">YouTube</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://x.com/Zoorikcloud">X</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.reddit.com/r/zoorik">Reddit</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://medium.com/zoorik">Medium</a>
+  <a href="https://zoorik.com">zoorik.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:founders@zoorik.com">founders@zoorik.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/company/zoorik">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.youtube.com/@getzoorik">YouTube</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://x.com/getzoorik">X</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.reddit.com/r/zoorik">Reddit</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://medium.com/zoorik">Medium</a>
   <br>
   <sub>Zoorik Private Limited · Bengaluru, India · <a href="https://zoorik.com/privacy">Privacy policy</a></sub>
 </p>
